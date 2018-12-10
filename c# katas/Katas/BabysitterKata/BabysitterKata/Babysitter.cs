@@ -25,11 +25,11 @@ namespace BabysitterKata
             //edge case?
             if (arriveTime == departTime)
             {
-                if (arriveTime < bedTime)
+                if (arriveTime <= bedTime)
                     return 10;
-                if (arriveTime >= bedTime && arriveTime < 12)
+                if (arriveTime > bedTime && arriveTime <= 12)
                     return 6;
-                if (arriveTime >= 12)
+                if (arriveTime > 12)
                     return 8;
             }
 
