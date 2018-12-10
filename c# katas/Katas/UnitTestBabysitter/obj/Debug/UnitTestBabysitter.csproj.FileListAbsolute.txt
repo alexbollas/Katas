@@ -1,0 +1,17 @@
+C:\Users\Alex\projects\Scala_Katas\c# katas\Katas\UnitTestBabysitter\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Alex\projects\Scala_Katas\c# katas\Katas\UnitTestBabysitter\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Alex\projects\Scala_Katas\c# katas\Katas\UnitTestBabysitter\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Alex\projects\Scala_Katas\c# katas\Katas\UnitTestBabysitter\bin\Debug\UnitTestBabysitter.dll
+C:\Users\Alex\projects\Scala_Katas\c# katas\Katas\UnitTestBabysitter\bin\Debug\UnitTestBabysitter.pdb
+C:\Users\Alex\projects\Scala_Katas\c# katas\Katas\UnitTestBabysitter\bin\Debug\BabysitterKata.exe
+C:\Users\Alex\projects\Scala_Katas\c# katas\Katas\UnitTestBabysitter\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Alex\projects\Scala_Katas\c# katas\Katas\UnitTestBabysitter\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Alex\projects\Scala_Katas\c# katas\Katas\UnitTestBabysitter\bin\Debug\BabysitterKata.pdb
+C:\Users\Alex\projects\Scala_Katas\c# katas\Katas\UnitTestBabysitter\bin\Debug\BabysitterKata.exe.config
+C:\Users\Alex\projects\Scala_Katas\c# katas\Katas\UnitTestBabysitter\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Alex\projects\Scala_Katas\c# katas\Katas\UnitTestBabysitter\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Alex\projects\Scala_Katas\c# katas\Katas\UnitTestBabysitter\obj\Debug\UnitTestBabysitter.csprojAssemblyReference.cache
+C:\Users\Alex\projects\Scala_Katas\c# katas\Katas\UnitTestBabysitter\obj\Debug\UnitTestBabysitter.csproj.CoreCompileInputs.cache
+C:\Users\Alex\projects\Scala_Katas\c# katas\Katas\UnitTestBabysitter\obj\Debug\UnitTestBabysitter.csproj.CopyComplete
+C:\Users\Alex\projects\Scala_Katas\c# katas\Katas\UnitTestBabysitter\obj\Debug\UnitTestBabysitter.dll
+C:\Users\Alex\projects\Scala_Katas\c# katas\Katas\UnitTestBabysitter\obj\Debug\UnitTestBabysitter.pdb

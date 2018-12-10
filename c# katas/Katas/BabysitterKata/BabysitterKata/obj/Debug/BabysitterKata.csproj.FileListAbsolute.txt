@@ -1,0 +1,7 @@
+C:\Users\Alex\projects\Scala_Katas\c# katas\Katas\BabysitterKata\BabysitterKata\bin\Debug\BabysitterKata.exe.config
+C:\Users\Alex\projects\Scala_Katas\c# katas\Katas\BabysitterKata\BabysitterKata\bin\Debug\BabysitterKata.exe
+C:\Users\Alex\projects\Scala_Katas\c# katas\Katas\BabysitterKata\BabysitterKata\bin\Debug\BabysitterKata.pdb
+C:\Users\Alex\projects\Scala_Katas\c# katas\Katas\BabysitterKata\BabysitterKata\obj\Debug\BabysitterKata.csprojAssemblyReference.cache
+C:\Users\Alex\projects\Scala_Katas\c# katas\Katas\BabysitterKata\BabysitterKata\obj\Debug\BabysitterKata.csproj.CoreCompileInputs.cache
+C:\Users\Alex\projects\Scala_Katas\c# katas\Katas\BabysitterKata\BabysitterKata\obj\Debug\BabysitterKata.exe
+C:\Users\Alex\projects\Scala_Katas\c# katas\Katas\BabysitterKata\BabysitterKata\obj\Debug\BabysitterKata.pdb
